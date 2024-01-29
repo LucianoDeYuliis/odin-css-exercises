@@ -1,0 +1,15 @@
+.impar{
+    background-color:#FFA7A7 ;
+    font-family: Verdana,sans-serif;
+}
+#primerDiv{
+    color:#0000FF;
+    font-size: 36px;
+}
+.text-font-size{
+    font-size: 24px;
+}
+#segundoDiv{
+    background-color:#7FFE7F;
+    font-weight: bold;
+}
